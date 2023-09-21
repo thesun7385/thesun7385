@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Supachai2538&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thesun7385&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesun7385&theme=aura_dark)
