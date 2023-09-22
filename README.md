@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-     <a href="https://github.com/thesun7385/github-readme-stats">
+<a href="https://github.com/thesun7385/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thesun7385&theme=dark" />
 </a>
 <a href="https://github.com/thesun7385/convoychat">
