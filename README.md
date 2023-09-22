@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesun7385&theme=dark)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyGriffith&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
