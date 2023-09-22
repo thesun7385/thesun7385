@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 </a>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesun7385&theme=dark)
 
 
 
