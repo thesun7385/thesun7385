@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thesun7385&theme=dark)        
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesun7385&theme=dark)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/thesun7385/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thesun7385" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/thesun7385/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
 
