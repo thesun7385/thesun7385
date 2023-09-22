@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesun7385&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesun7385&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesun7385&show_icons=true&theme=dark)
 
 
