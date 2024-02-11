@@ -1,4 +1,4 @@
-### Hi I'm Supachai Ruknuy 👋
+### Hi I'm Supachai Ruknuy - SUN
 
 "I am a car enthusiast, coffee lover, hooper, and tech guy!" 
 
