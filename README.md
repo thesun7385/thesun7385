@@ -1,6 +1,6 @@
 ### Hi I'm Supachai Ruknuy
 
-"A car guy, coffee lover, hooper, and travel enthusiast!" 
+"A car guy, music lover, hooper, and travel enthusiast!" 
 
 <!--
 **supachai2538/supachai2538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
