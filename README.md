@@ -1,6 +1,6 @@
 ### Hi I'm Supachai Ruknuy
 
-"A car guy, music lover, hooper, and travel enthusiast!" <br>
+"A car enthusiast, music lover, and hooper!" <br>
 "I love to build, design and create."
 
 <!--
