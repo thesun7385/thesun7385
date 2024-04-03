@@ -1,7 +1,7 @@
 ### Hi I'm Supachai Ruknuy
 
 "A car enthusiast, music lover, and hooper!" <br>
-"I love to build, design and create."
+"Design, Create, Build, and Enjoy."
 
 <!--
 **supachai2538/supachai2538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
