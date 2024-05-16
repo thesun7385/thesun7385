@@ -1,5 +1,4 @@
 ### Hi I'm Supachai Ruknuy - Sun ☀️
-"A car enthusiast, music lover, hooper, and hiker." <br>
 
 "I like to build cool stuff!"
 
