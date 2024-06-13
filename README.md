@@ -1,6 +1,6 @@
 ### Hi I'm Supachai Ruknuy - Sun ☀️
 
-"I like to build cool stuff!"
+"I design and build cool websites."
 
 <!--
 **supachai2538/supachai2538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
