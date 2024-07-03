@@ -1,6 +1,6 @@
 ### Hi I'm Supachai Ruknuy - Sun ☀️
 
-### "The Distance Between Dreams And Reality Is Action"
+### "The distance between dreams and reality is called action"
 
 <!--
 **supachai2538/supachai2538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
