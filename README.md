@@ -1,4 +1,4 @@
-### Hi I'm Supachai Ruknuy - Sun ☀️
+### Hi my name is Supachai Ruknuy - Sun ☀️
 
 ### "The distance between dreams and reality is called action"
 
