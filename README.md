@@ -1,4 +1,4 @@
-### Hi! my name is Supachai Ruknuy - Sun ☀️
+### Hi, my name is Supachai Ruknuy - Sun ☀️
 ### I built eye-catching  websites!
 
 
