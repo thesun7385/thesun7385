@@ -1,6 +1,16 @@
 ### Hi, my name is Supachai Ruknuy - Sun ☀️
 ### "I design and build eye-catching websites!"
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=theSun7385&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=theSun7385&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theSun7385&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=theSun7385&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ####  My Dev tools:
 [![My Skills](https://skillicons.dev/icons?i=figma,react,redux,nodejs,ts,js,css,bootstrap,tailwind,mongodb,mysql,firebase&perline=6 )](https://skillicons.dev)
@@ -13,30 +23,9 @@
 
 
 
-<!--
-**supachai2538/supachai2538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=thesun7385&theme=transparent" />
-</a>
-
 ### "The distance between dreams and reality is called action. --- Unknown"
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesun7385&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
- -->
+
+
 
 
 
