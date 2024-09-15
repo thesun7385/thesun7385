@@ -1,5 +1,5 @@
 ### Hi, my name is Supachai Ruknuy - Sun ☀️
-### I built eye-catching  websites!
+### I design and build eye-catching websites!
 
 
 ####  My Dev tools:
